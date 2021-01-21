@@ -64,4 +64,5 @@ CREATE TABLE titles(
 	title VARCHAR(20)
 );
 
-SELECT * FROM titles
+
+
